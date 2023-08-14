@@ -1,5 +1,7 @@
 # Stable Diffusion XL 1.0 Experiments
 
+![](example5.webp)
+
 Jupyter Notebooks for experimenting with Stable Diffusion XL 1.0 and the [sdxl-wrong-lora](https://huggingface.co/minimaxir/sdxl-wrong-lora). All these notebooks have been confirmed to [barely](https://twitter.com/minimaxir/status/1691156740111568896) work in Colab on a T4 GPU.
 
 These notebooks include:
